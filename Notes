@@ -1,0 +1,7 @@
+YT-Link: https://www.youtube.com/watch?v=pUNSHPyVryU
+Repo: https://github.com/adrianhajdin/project_next13_car_showcase
+
+next notes:
+
+components folder doesnt go in app folder as app folder is reserved for pages, layouts and specific next13 files that are presented as routes in app.
+Therfore components folder goes in root of project
